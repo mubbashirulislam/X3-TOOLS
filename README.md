@@ -42,13 +42,9 @@ X3-Tools is a powerful, user-friendly Windows utility installer designed to stre
    ```
 3. Navigate to the project directory:
    ```
-   cd X3Tools
+   cd X3-TOOLS
    ```
-4. Install required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-5. Run the script:
+4. Run the script:
    ```
    python x3_tools.py
    ```
